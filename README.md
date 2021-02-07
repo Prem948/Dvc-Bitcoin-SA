@@ -35,7 +35,7 @@ Python 3 is required, so please check it if you have installed it on your system
 
 By using terminal, open the directory of the clone project to run.
 
-    cd DVC-Bitcoin-SNA
+    cd DVC-Bitcoin-SA
       
 # Install the required python packages
 
