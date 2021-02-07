@@ -18,7 +18,7 @@ In particular, the following sections have been ported to DVC pipelines
                   	                              | prepare |                        
                   	                              +---------+      
 
-Input data are located in the folder data/soc-sign-bitcoinalpha.csv, while output data are also located in the folder data. We will get output as Network Graph.
+Input data are located in the folder data/soc-sign-bitcoinalpha.csv. We will get output as Ego Network Graph.
 
 
 # Download
