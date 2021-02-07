@@ -8,9 +8,9 @@ In particular, the following sections have been ported to DVC pipelines
   
 - Prepare
 
-      	                             +-------------------------------------+                   
+      	                             +------------------------------------+                   
                                            | data/soc-sign-bitcoinalpha.csv.dvc |                   
-                                           +-------------------------------------+                   
+                                           +------------------------------------+                   
                                                         *                             
                                                         *                              
                                                         *                             
