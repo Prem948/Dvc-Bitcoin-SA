@@ -1,0 +1,6 @@
+stages:
+  prepare:
+    cmd: python src/bitcoin.py data/soc-sign-bitcoinalpha.csv
+    deps:
+    - data/soc-sign-bitcoinalpha.csv
+    - src/bitcoin.py

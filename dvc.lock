@@ -1,0 +1,9 @@
+prepare:
+  cmd: python src/bitcoin.py data/soc-sign-bitcoinalpha.csv
+  deps:
+  - path: data/soc-sign-bitcoinalpha.csv
+    md5: becd9f0d62eabf350d3933803c7226d6
+    size: 210057
+  - path: src/bitcoin.py
+    md5: 030d29970c6dbd92eb77eeb6dfee3c20
+    size: 9610
