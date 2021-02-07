@@ -53,4 +53,4 @@ To visualize the pipeline graph run the following command
     
 # Examples
 
-You can save the Ego Graph in your local directory by clicking save in that Output Graph.
+After running dvc repro using terminal You can see the Ego Graph as Output File and you can save in your local directory by clicking save in that Output Graph.
